@@ -1,5 +1,6 @@
 # ConstructorActivity
 Rebese, Vincent || Keith Francis Lopez
+
 The Problem Your task is to build a Book class for a simple library management system. Not all the books in the library have complete information available, so you need to design your class to handle these different scenarios.
 
 Requirements: Define the Book Class: Create a new class named Book with the following private fields to store information about a book:
